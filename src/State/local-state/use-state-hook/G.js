@@ -1,8 +1,19 @@
-import React from 'react'
+import React, { useState } from 'react'
 
-function G() {
+function G(props) {
+
+  // let [name, setName] = useState('sachin')
+  // let [count, setCount] = useState(0)
+
+  console.log('render')
+
   return (
-    <div>G</div>
+    <div>
+      <h3>G: Name: {props.name}</h3>
+      {/* <button onClick={()=>setName('kohli')}>update name</button>
+      <h3>G: Count: {count}</h3>
+      <button onClick={()=>setCount(count+1)}>update count</button> */}
+    </div>
   )
 }
 

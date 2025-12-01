@@ -1,10 +1,10 @@
 import React from 'react'
 import G from './G'
 
-function F(props) {
+function F() {
   return (
     <div>
-      <G name={props.name} />
+      <G/>
     </div>
   )
 }
