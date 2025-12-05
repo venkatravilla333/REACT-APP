@@ -1,7 +1,16 @@
 // import Parent from "./Components/Parent"
 // import Jsx from "./JSX/Jsx"
 
-import A from "./State/global-state/redux-concept/react-components/A"
+import A from "./State/global-state/context-api-with-useReducer/A"
+
+
+
+// import A from "./State/local-state/use-reducer-hook/A"
+
+
+// import A from "./State/global-state/redux-toolkit/react-components/A"
+
+// import A from "./State/global-state/redux-concept/react-components/A"
 
 // import A from "./State/global-state/context-api-with-useState/A"
 
@@ -21,6 +30,9 @@ function App() {
     {/* {Parent()} */}
     {/* <Parent/> */}
     {/* <Parent/> */}
+    {/* <A/> */}
+    {/* <A/> */}
+    {/* <A/> */}
     {/* <A/> */}
     {/* <A/> */}
     <A/>
