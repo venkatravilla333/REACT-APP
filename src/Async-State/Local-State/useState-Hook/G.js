@@ -6,6 +6,7 @@ function G(props) {
   let [loading, setLoading]  = useState(false)
   let [posts, setPosts]  = useState([])
   let [error, setError] = useState(null)
+  console.log('render')
 
   // function getData() {
   //   setLoading(true)
