@@ -1,7 +1,24 @@
 // import Parent from "./Components/Parent"
 // import Jsx from "./JSX/Jsx"
 
-import A from "./Async-State/Global-State/Redux-Concept/React-Componentts/A"
+import Parent from "./Conditional-Rendering/Parent"
+import Login from "./CSS/CSSModules/Login"
+import Register from "./CSS/CSSModules/Register"
+import Count1 from "./Custom-hooks/Count1"
+import Count2 from "./Custom-hooks/Count2"
+import Count3 from "./Custom-hooks/Count3"
+import List from "./Map-Method/List"
+import Value from "./Refs/Nv-Sv-Rv/Value"
+import Dom from "./Refs/Ref/Dom"
+
+// import Login from "./CSS/External/Login"
+// import Register from "./CSS/External/Register"
+// import Inline from "./CSS/Inline/Inline"
+// import Parent from "./Routing/Parent"
+
+// import A from "./Async-State/Global-State/Toolkit/react-components/A"
+
+// import A from "./Async-State/Global-State/Redux-Concept/React-Componentts/A"
 
 // import A from "./Async-State/Global-State/contextApi-with-useState/A"
 
@@ -39,7 +56,6 @@ import A from "./Async-State/Global-State/Redux-Concept/React-Componentts/A"
 
 function App() {
   return <div>
-    <h1>App com</h1>
     {/* <Jsx/> */}
     {/* {Jsx()} */}
     {/* <Parent/> */}
@@ -58,7 +74,19 @@ function App() {
     {/* <A/> */}
     {/* <A/> */}
     {/* <A/> */}
-    <A/>
+    {/* <A/> */}
+    {/* <A/> */}
+    {/* <Parent/> */}
+    {/* <Inline/> */}
+    {/* <Register />
+    <Login/> */}
+    {/* <Parent/> */}
+    {/* <Count1 />
+    <Count2 />
+    <Count3/> */}
+    {/* <List/> */}
+    {/* <Value/> */}
+    <Dom/>
   </div>
 }
 

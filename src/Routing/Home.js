@@ -1,0 +1,12 @@
+import React from 'react'
+
+function Home() {
+  return (
+    <div>
+      <h2>Home component</h2>
+      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aperiam facere quia nemo quis non sapiente explicabo accusantium totam quibusdam quod esse inventore aut, ab neque vero nobis libero tenetur earum provident rerum sed, impedit modi soluta harum. Corporis et quis natus nostrum esse odio recusandae, soluta illo illum vitae nobis dolores explicabo, ullam id adipisci. Totam accusantium saepe officia quae porro tenetur possimus harum, alias ratione hic eum ad adipisci dolor quam accusamus perspiciatis excepturi nam nisi obcaecati, cupiditate dolore temporibus repudiandae consequatur numquam? Eius magni, tempore voluptatibus praesentium tenetur error perferendis harum commodi modi aliquam aperiam numquam sequi fugit ab nostrum magnam a dolorum sapiente voluptates aspernatur? Provident, quidem magni! Consequatur modi non ex cum esse. Ipsam minus, obcaecati facilis repellat praesentium fuga possimus recusandae qui nesciunt consectetur deserunt voluptate corporis temporibus atque. Rerum voluptatibus, in, sequi amet expedita praesentium illo aspernatur ratione optio maiores veritatis accusamus. Velit fugit doloribus molestias at, fuga esse magnam delectus mollitia quae ab impedit ipsum commodi dolorem sunt odit minus voluptatibus suscipit quibusdam sed unde ipsa quia sint laudantium atque. Officia esse reiciendis quae est ipsum repellat optio amet, magnam deleniti dolorum deserunt adipisci ad minima eveniet inventore sed expedita! Consequuntur, repudiandae beatae culpa aut inventore officiis quibusdam fugiat iusto nemo dicta perspiciatis quas, in magni distinctio dolorem a illo et quam molestiae eum? Nihil, cupiditate laboriosam. Ab assumenda sequi laborum excepturi atque a culpa nobis odio sed praesentium nisi repudiandae distinctio, quibusdam tempore quisquam suscipit voluptate aliquam! Voluptatibus eum voluptatem veniam optio, animi itaque expedita, voluptate praesentium ullam debitis officia in voluptatum quod pariatur minima, quam quo assumenda deserunt quaerat! Molestiae maiores aliquid laudantium deleniti ut, illum enim vitae quae ratione perspiciatis repellendus eum natus sunt odit fuga porro! Sint possimus dolorum molestiae incidunt iure, atque consequatur, esse facilis eius corrupti minima.</p>
+    </div>
+  )
+}
+
+export default Home
